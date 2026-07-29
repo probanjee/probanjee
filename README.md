@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science and Engineering undergraduate specializing in software development and backend engineering. Experienced in building<br>scalable web applications, RESTful APIs, secure systems, and database-driven solutions using modern technologies. Developed projects <br>including SQL Sense, Vigilance Honeypot System, Dynamic API Middleware Generator, Heuristic Workout App, and File Encryption Tool. <br>Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, system design, and database management, with a <br>commitment to writing clean, maintainable, and production-ready software.
+Computer Science and Engineering undergraduate specializing in software development and backend engineering. Experienced in building scalable web applications, RESTful APIs, secure systems, and database-driven solutions using modern technologies. Developed projects <br>including SQL Sense, Vigilance Honeypot System, Dynamic API Middleware Generator, Heuristic Workout App, and File Encryption Tool. <br>Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, system design, and database management, with a <br>commitment to writing clean, maintainable, and production-ready software.
 
 
 ## 🌐 Socials:
