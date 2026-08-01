@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Prosun Banerjee
-**A passionate Software Engineer || Full Stack Developer || Backend Engineer || Cloud & DevOps Enthusiast from India**
+**A passionate Software Engineer || Full Stack Developer ||  Cloud & DevOps Enthusiast from India**
 
 Email Me 👉 ✉️ **prosunbanerjee8@gmail.com** For Collaboration / Project or Anything Else. 😊😊
 
