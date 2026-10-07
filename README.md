@@ -1,33 +1,378 @@
-# 💫 Hi 👋, I'm Prosun Banerjee
-**A passionate Software Engineer || Full Stack Developer ||  Cloud & DevOps Enthusiast from India**
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1D4ED8,50:06B6D4,75:10B981,100:064E3B&text=PROSUN&fontFamily=Times%20New%20Roman&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=61&descAlign=50&descSize=17&descColor=E2E8F0"
+    alt="Prosun Header"
+  />
+</p>
 
-Email Me 👉 ✉️ **prosunbanerjee8@gmail.com** For Collaboration / Project or Anything Else. 😊😊
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="Robot"/> 
+  <br/>
+  𝐈'𝐦 𝐏𝐫𝐨𝐬𝐮𝐧 𝐁𝐚𝐧𝐞𝐫𝐣𝐞𝐞
+</h1>
 
-# 💫 About Me:
-🔭 I'm Currently Working on:<br><br>LucidOS — a dual-agent AI desktop environment (think JARVIS & FRIDAY, but homemade) + some personal projects<br><br>👯‍♂️ I'm looking to collaborate on:<br><br>AI-powered tools, cybersecurity platforms, or anything sitting at the edge of LLM systems + security engineering.<br><br>🫱🏻‍🫲🏻 I'm Looking for Help with:<br><br>Local LLM inference optimization, Rust/Tauri internals, and Kafka stream processing at scale.<br><br>🌱 I'm Currently Learning:<br><br>Rust for systems-level muscle, and Neovim — because real devs suffer productively.<br><br>💬 Ask me about:<br><br>FastAPI, honeypot architecture, C/C++, dual-agent AI systems, React/Vite, or why your API needs rate limiting before it hits prod.<br><br>⚡ Fun Fact:<br><br>I love dark mode because light is what attracts bugs... and I'd rather not debug in broad daylight 😂🤣
+<p align="center">
+  <strong>Building resilient systems, agentic AI architectures & networked infrastructure.</strong>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Dual-Agent+AI+Environments+(LucidOS);Designing+Low-Latency+Systems+%26+Honeypots;Architecting+Full-Stack+Web+Platforms;Engineering+Event-Driven+Kafka+Pipelines;Taming+Systems+with+Rust%2C+C%2B%2B+%26+Python" alt="Typing SVG"/>
+</p>
 
-## Hey  I just want to tell you guys I can make one project online which is SQL-Sense because it may help others  to learn sql easily here is the link **https://sql-sense-understand-sql-instantly-three.vercel.app/**
-**(rest are offline because there are some major and minor updates but you  can use my encryption project it runs on terminal)**
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=plastic&logo=tauri&logoColor=%23FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=probanjee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=probanjee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=probanjee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="mailto:prosunbanerjee8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/probanjee">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://buymeacoffee.com/probanjee">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://paypal.me/ProsunBanerjee357">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=probanjee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/probanjee) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ProsunBanerjee357) 
+<div align="center">
 
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="26" valign="middle"/>&nbsp; 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" valign="middle"/></h2>
+
+### `> whoami`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" valign="middle"/>&nbsp; 𝐖𝐡𝐨 𝐈 𝐀𝐦 
+
+I'm a **Software Engineer & Full Stack Developer** passionate about low-level systems, networked architectures, and security tooling.
+
+My core interests sit at the intersection of:
+
+- Systems Engineering & Network Infrastructure
+- Dual-Agent AI & Local LLM Orchestration
+- High-Throughput Streaming & Event Architectures
+- Resilient Full Stack Platforms & Security Honeypots
+
+</td>
+
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨 
+
+I engineer platforms combining **rock-solid backend foundations with intuitive, modern interfaces**.
+
+Currently focused on:
+
+- **LucidOS** — Dual-agent AI desktop environment (JARVIS & FRIDAY inspired)
+- **[SQL-Sense](https://sql-sense-understand-sql-instantly-three.vercel.app/)** — Interactive visual SQL learning platform
+- **CLI Encryption Suite** — Terminal-native cryptography & hashing utility
+- Local LLM inference optimization, Rust/Tauri internals & Kafka streaming
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" valign="middle"/>&nbsp; 𝐌𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐉𝐨𝐮𝐫𝐧𝐞𝐲</h3>
+
+`Think` → `Learn` → `Build` → `Break` → `Debug` → `Improve` → `Repeat`
+
+<br>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="22" valign="middle"/>&nbsp; 𝐌𝐲 𝐌𝐢𝐬𝐬𝐢𝐨𝐧</h3>
+
+**Build. Secure. Optimize. Scale.**
+
+<p>
+Engineering performant, reliable software, exploring agentic intelligence,
+<br/>
+and proving that dark mode is the only way to keep the bugs away.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝 &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" valign="middle"/></h2>
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<p align="center">
+  <img src="https://img.icons8.com/fluency/144/artificial-intelligence.png" width="85" alt="Agentic AI"/>
+</p>
   
+**Agentic AI & Systems**
+
+Dual-agent ecosystems, local LLM orchestration, and intelligent desktop environments like LucidOS.
+
+</td>
+
+<td align="center" width="25%">
+<p align="center">
+  <img src="https://img.icons8.com/fluency/144/web-design.png" width="85" alt="Full Stack"/>
+</p>
+
+**Full Stack Engineering**
+
+FastAPI backends, React/Vite web apps, rate-limited APIs, and modern claymorphism/dark UIs.
+
+</td>
+
+<td align="center" width="25%">
+<p align="center">
+  <img src="https://img.icons8.com/fluency/144/shield.png" width="85" alt="Cybersecurity"/>
+</p>
+
+**Systems & Security**
+
+TCP socket servers, low-level honeypots, CLI encryption tools, and systems programming in C++ & Rust.
+
+</td>
+
+<td align="center" width="25%">
+<p align="center">
+  <img src="https://img.icons8.com/fluency/144/data-configuration.png" width="85" alt="Data & Streaming"/>
+</p>
+
+**Data & Event Streaming**
+
+Apache Kafka event pipelines, spatial indexing, MongoDB replica sets, and distributed caching.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="26" valign="middle"/>&nbsp; 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 & 𝐌𝐢𝐥𝐞𝐬𝐭𝐨𝐧𝐞𝐬 &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="26" valign="middle"/></h2>
+
+### Building in Public • Shipping Code • Evolving Constantly
+
+<br/>
+
+<!-- ===================== GITHUB TROPHIES ===================== -->
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="22" valign="middle"/>&nbsp; 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬</h3>
+<p><em>Tracking open-source repository impact and commits</em></p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=probanjee&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
+  </a>
+</p>
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26" valign="middle"/>&nbsp; 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26" valign="middle"/></h2>
+
+*Technologies I use to build robust, scalable software.*
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="240"><strong>Category</strong></td>
+<td align="center"><strong>Technologies</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Languages</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,java,bash,powershell"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Frontend & UI</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,bootstrap,figma"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Backend & Streaming</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql,kafka"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Databases & Storage</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,supabase,firebase"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Data, ML & Scientific</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Cloud & DevOps</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,azure,cloudflare,vercel,netlify"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>Development Tools</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,cmake,linux,neovim,vscode"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="26" valign="middle"/>&nbsp; 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="26" valign="middle"/></h2>
+
+<br/>
+
+<!-- ===================== STREAK ===================== -->
+
+<img src="https://streak-stats.demolab.com/?user=probanjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=06B6D4&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=8B949E" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- ===================== STATS + LANGUAGES ===================== -->
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  height="195"
+  src="https://github-readme-stats.vercel.app/api?username=probanjee&show_icons=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  height="195"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=probanjee&layout=compact&langs_count=8&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&hide_border=true"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=probanjee&theme=tokyo-night&hide_border=true&area=true&radius=10&bg_color=0D1117" alt="Activity Summary" width="98%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" valign="middle"/>&nbsp; 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" valign="middle"/></h2>
+
+<br/>
+
+<a href="mailto:prosunbanerjee8@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/probanjee">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://buymeacoffee.com/probanjee">
+<img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+<a href="https://paypal.me/ProsunBanerjee357">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=probanjee&style=for-the-badge&color=06B6D4"/>
+
+<br/><br/>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" width="20" valign="middle"/>&nbsp; <code>𝐂𝐨𝐝𝐞 • 𝐒𝐞𝐜𝐮𝐫𝐞 • 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐞 • 𝐒𝐜𝐚𝐥𝐞</code> &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" width="20" valign="middle"/></h3>
+
+<p>
+  
+  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" valign="middle"/>&nbsp; Open to collaborative ventures, cybersecurity research, and building resilient systems. &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" valign="middle"/>**
+
+</p>
+
+</div>
+
+<!-- Closing Footer Wave -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:064E3B,25:10B981,50:06B6D4,75:1D4ED8,100:0F172A&animation=fadeIn"
+    alt="Prosun Footer Wave"
+  />
+</p>
