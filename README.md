@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1D4ED8,50:06B6D4,75:10B981,100:064E3B&text=PRATIK&fontFamily=Times%20New%20Roman&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Quantum%20Computing&descAlignY=61&descAlign=50&descSize=17&descColor=E2E8F0"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1D4ED8,50:06B6D4,75:10B981,100:064E3B&text=PROSUN&fontFamily=Times%20New%20Roman&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Cloud%20DevOps%20Enthusiast&descAlignY=61&descAlign=50&descSize=17&descColor=E2E8F0"
     alt="Prosun Header"
   />
 </p>
