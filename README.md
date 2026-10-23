@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Dual-Agent+AI+Environments+(LucidOS);Designing+Low-Latency+Systems+%26+Honeypots;Architecting+Full-Stack+Web+Platforms;Engineering+Event-Driven+Kafka+Pipelines;Taming+Systems+with+Rust%2C+C%2B%2B+%26+Python" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Dual-Agent+AI+Environments+(PAI);Designing+Low-Latency+Systems+%26+Honeypots;Architecting+Full-Stack+Web+Platforms;Engineering+Event-Driven+Kafka+Pipelines;Taming+Systems+with+Rust%2C+C%2B%2B+%26+Python" alt="Typing SVG"/>
 </p>
 
 <p align="center">
