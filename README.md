@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="Robot"/> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="Robot"/>
   <br/>
   𝐈'𝐦 𝐏𝐫𝐨𝐬𝐮𝐧 𝐁𝐚𝐧𝐞𝐫𝐣𝐞𝐞
 </h1>
@@ -49,7 +49,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" valign="middle"/>&nbsp; 𝐖𝐡𝐨 𝐈 𝐀𝐦 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" valign="middle"/>&nbsp; 𝐖𝐡𝐨 𝐈 𝐀𝐦
 
 I'm a **Software Engineer & Full Stack Developer** passionate about low-level systems, networked architectures, and security tooling.
 
@@ -64,7 +64,7 @@ My core interests sit at the intersection of:
 
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨
 
 I engineer platforms combining **rock-solid backend foundations with intuitive, modern interfaces**.
 
@@ -290,37 +290,36 @@ Apache Kafka event pipelines, spatial indexing, MongoDB replica sets, and distri
 
 <br/><br/>
 
-<!-- ===================== STATS + LANGUAGES ===================== -->
+<!-- REPO_VISUAL_START -->
 
-<table align="center">
-<tr>
+<!-- ===================== git repo map ===================== -->
 
-<td width="50%" align="center" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-graph?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=light" />
+  <img src="https://www.gitskins.com/api/section/map-graph?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=dark" width="100%" alt="A map of Prosun Banerjee's projects" />
+</picture>
 
-<img
-  width="100%"
-  height="195"
-  src="https://github-readme-stats.vercel.app/api?username=probanjee&show_icons=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=true"
-  alt="GitHub Stats"
-/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-legend?username=probanjee&mode=light" />
+  <img src="https://www.gitskins.com/api/section/map-legend?username=probanjee&mode=dark" width="100%" alt="Languages on the map" />
+</picture>
 
-</td>
+<br/>
 
-<td width="50%" align="center" valign="middle">
+<h3 align="center">Up close</h3>
 
-<img
-  width="100%"
-  height="195"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=probanjee&layout=compact&langs_count=8&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&hide_border=true"
-  alt="Top Languages"
-/>
+<p align="center">
+  <a href="https://github.com/probanjee/Dynamic-API-Genarator"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=0&r=Dynamic-API-Genarator&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=0&r=Dynamic-API-Genarator&mode=dark" width="49%" alt="Dynamic-API-Genarator: api-builder  trpc  react19  vite  drizzle-orm  typescript  express  openapi  ai-assistant  mock-server  api-designer  security-audit" /></picture></a>
+  <a href="https://github.com/probanjee/P.A.I."><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=1&r=P.A.I.&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=1&r=P.A.I.&mode=dark" width="49%" alt="P.A.I.: Prosenjit, or P.A.I. (Practical Assistant Inside), is designed to be your desktop best friend, project manager, and personal AI assistant. Inspired by the futuristic assistants from Iron Man, this passion project focuses on creating a local-first AI companion for students, developers, and makers." /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/probanjee/R.U.D.R.A"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=2&r=R.U.D.R.A&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=2&r=R.U.D.R.A&mode=dark" width="49%" alt="R.U.D.R.A: " /></picture></a>
+  <a href="https://github.com/probanjee/probanjee"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=3&r=probanjee&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=3&r=probanjee&mode=dark" width="49%" alt="probanjee: " /></picture></a>
+</p>
 
-</td>
+<sub>Project Map · drawn from my public repositories</sub>
 
-</tr>
-</table>
-
-<br/><br/>
+<!-- REPO_VISUAL_END -->
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 

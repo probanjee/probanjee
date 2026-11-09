@@ -1,0 +1,54 @@
+name: Rotate Profile Visuals
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      visual:
+        description: 'Visual to display (choose "auto" for schedule-based)'
+        required: true
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - map
+          - solar
+          - metro
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Rotate visual widget
+        run: |
+          if [ "${{ inputs.visual }}" != "" ] && [ "${{ inputs.visual }}" != "auto" ]; then
+            python .github/scripts/rotate_visuals.py --visual "${{ inputs.visual }}"
+          else
+            python .github/scripts/rotate_visuals.py
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No change in visual today."
+          else
+            git commit -m "Auto-rotate repository visual [skip ci]"
+            git push
+          fi
+
