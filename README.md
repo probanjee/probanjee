@@ -292,32 +292,14 @@ Apache Kafka event pipelines, spatial indexing, MongoDB replica sets, and distri
 
 <!-- REPO_VISUAL_START -->
 
-<!-- ===================== git repo map ===================== -->
+<!-- ===================== Solar system ===================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-graph?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=light" />
-  <img src="https://www.gitskins.com/api/section/map-graph?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=dark" width="100%" alt="A map of Prosun Banerjee's projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=light" />
+  <img src="https://www.gitskins.com/api/section/solar-orbits?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=dark" width="100%" alt="My languages as planets around me" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-legend?username=probanjee&mode=light" />
-  <img src="https://www.gitskins.com/api/section/map-legend?username=probanjee&mode=dark" width="100%" alt="Languages on the map" />
-</picture>
-
-<br/>
-
-<h3 align="center">Up close</h3>
-
-<p align="center">
-  <a href="https://github.com/probanjee/Dynamic-API-Genarator"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=0&r=Dynamic-API-Genarator&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=0&r=Dynamic-API-Genarator&mode=dark" width="49%" alt="Dynamic-API-Genarator: api-builder  trpc  react19  vite  drizzle-orm  typescript  express  openapi  ai-assistant  mock-server  api-designer  security-audit" /></picture></a>
-  <a href="https://github.com/probanjee/P.A.I."><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=1&r=P.A.I.&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=1&r=P.A.I.&mode=dark" width="49%" alt="P.A.I.: Prosenjit, or P.A.I. (Practical Assistant Inside), is designed to be your desktop best friend, project manager, and personal AI assistant. Inspired by the futuristic assistants from Iron Man, this passion project focuses on creating a local-first AI companion for students, developers, and makers." /></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/probanjee/R.U.D.R.A"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=2&r=R.U.D.R.A&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=2&r=R.U.D.R.A&mode=dark" width="49%" alt="R.U.D.R.A: " /></picture></a>
-  <a href="https://github.com/probanjee/probanjee"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=probanjee&i=3&r=probanjee&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=probanjee&i=3&r=probanjee&mode=dark" width="49%" alt="probanjee: " /></picture></a>
-</p>
-
-<sub>Project Map · drawn from my public repositories</sub>
+<sub>Solar System · planets are languages, comets are recent pushes</sub>
 
 <!-- REPO_VISUAL_END -->
 
