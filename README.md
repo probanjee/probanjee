@@ -292,14 +292,14 @@ Apache Kafka event pipelines, spatial indexing, MongoDB replica sets, and distri
 
 <!-- REPO_VISUAL_START -->
 
-<!-- ===================== Solar system ===================== -->
+<!-- ===================== Repo Metro ===================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=light" />
-  <img src="https://www.gitskins.com/api/section/solar-orbits?username=probanjee&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230592145%3Fu%3D2dae9ec52c1241cdcbec1fd6fce6a5f30b0a62d4%26v%3D4&mode=dark" width="100%" alt="My languages as planets around me" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/metro-map?username=probanjee&mode=light" />
+  <img src="https://www.gitskins.com/api/section/metro-map?username=probanjee&mode=dark" width="100%" alt="My repositories as a metro map, one line per language" />
 </picture>
 
-<sub>Solar System · planets are languages, comets are recent pushes</sub>
+<sub>Repo Metro · every line is a language, every stop a project</sub>
 
 <!-- REPO_VISUAL_END -->
 
